@@ -1,4 +1,4 @@
-# spellcheck
+# spellcorrector
 
 Here, you can input any word and check if it is having a correct spelling or not.
 
